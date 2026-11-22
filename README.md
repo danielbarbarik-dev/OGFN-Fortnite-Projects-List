@@ -1,7 +1,7 @@
 # OGFN Fortnite Projects List
 
 A complete list of active OGFN projects, organized by chapters and seasons.
-My Discord to contact me: https://discord.gg
+My Discord to contact me: @chupchuck1337
 
 ---
 
@@ -179,7 +179,8 @@ My Discord to contact me: https://discord.gg
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Reverse* | [Discord] (https://discord.gg/reversefn) | No |
+| Reverse | [Discord](https://discord.gg/reversefn) | No |
+
 
 ### Season OG
 
@@ -195,7 +196,7 @@ My Discord to contact me: https://discord.gg
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Helipse* | [Discord] (https://discord.gg/projecthelipse) | No |
+| *Helipse* | [Discord](https://discord.gg/projecthelipse) | No |
 
 ### Season 2 (Myths & Mortals)
 
