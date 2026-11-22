@@ -180,7 +180,7 @@ My Discord to contact me: @chupchuck1337
 | Project | Discord | Released |
 | :--- | :--- | :--- |
 | Reverse | [Discord](https://discord.gg/reversefn) | No |
-
+| Crescent | [Discord](https://discord.gg/crescentfn) | No |
 
 ### Season OG
 
@@ -197,6 +197,8 @@ My Discord to contact me: @chupchuck1337
 | Project | Discord | Released |
 | :--- | :--- | :--- |
 | *Helipse* | [Discord](https://discord.gg/projecthelipse) | No |
+| *Underground* | [Discord](https://discord.gg/undergroundmp) | Yes |
+| *UnderGround* | [Discord](https://discord.gg/y5w7TrzJb) | No |
 
 ### Season 2 (Myths & Mortals)
 
