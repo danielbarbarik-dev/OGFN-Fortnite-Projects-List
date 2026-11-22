@@ -23,7 +23,7 @@ My Discord to contact me: https://discord.gg
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Zero* | https://discord.gg/zeromp | Yes |
+| *Zero* | [Discord] https://discord.gg/zeromp | Yes |
 
 ### Season 3 (Meteor Strike)
 
