@@ -23,7 +23,7 @@ My Discord to contact me: https://discord.gg
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Zero* | [Discord] https://discord.gg/zeromp | Yes |
+| *Zero* | [Discord] (https://discord.gg/zeromp) | Yes |
 
 ### Season 3 (Meteor Strike)
 
@@ -179,7 +179,7 @@ My Discord to contact me: https://discord.gg
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Reverse* | [Discord] (https://discord.gg/reversefn) | No |
 
 ### Season OG
 
@@ -195,7 +195,7 @@ My Discord to contact me: https://discord.gg
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Helipse* | [Discord] (https://discord.gg/projecthelipse) | No |
 
 ### Season 2 (Myths & Mortals)
 
