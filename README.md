@@ -23,7 +23,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Zero* | [Discord] (https://discord.gg/zeromp) | Yes |
+| *Zero* | [Discord](https://discord.gg/zeromp) | Yes |
 
 ### Season 3 (Meteor Strike)
 
