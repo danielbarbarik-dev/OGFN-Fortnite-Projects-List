@@ -1,2 +1,2 @@
-# OGFN-Fortnite-Projects-List
-Every Fortnite project list
+# OGFN Fortnite Projects List
+Every Fortnite Project List
