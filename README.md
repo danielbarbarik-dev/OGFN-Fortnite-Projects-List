@@ -1,7 +1,7 @@
 # OGFN Fortnite Projects List
 
-Список актуальных OGFN проектов, разделенный по главам и сезонам.
-Мой Discord для связи: https://discord.gg
+A complete list of active OGFN projects.
+My Discord to contact me: @chupchuck1337
 
 ---
 
@@ -9,69 +9,69 @@
 
 ### Pre-Season / Season 0
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 1 (First Steps)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| Название проекта (1.8) | [Discord](https://discord.gg) |
+| *No projects yet | N/A |
 
 ### Season 2 (Fort Knights)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (Meteor Strike)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Brace for Impact)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 5 (Worlds Collide)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 6 (Darkness Rises)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 7 (You Better Watch Out)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 8 (X Marks the Spot)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 9 (The Future Is Yours)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season X (Out of Time)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ---
 
@@ -79,51 +79,51 @@
 
 ### Season 1 (New World)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 2 (Top Secret)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (Splashdown)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Nexus War)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 5 (Zero Point)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 6 (Primal)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 7 (Invasion)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 8 (Cubed)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ---
 
@@ -131,27 +131,27 @@
 
 ### Season 1 (Flipped)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 2 (Resistance)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (Vibin')
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Paradise)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ---
 
@@ -159,33 +159,33 @@
 
 ### Season 1 (A New Beginning)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 2 (MEGA)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (WILDS)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Last Resort)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season OG
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ---
 
@@ -193,33 +193,33 @@
 
 ### Season 1 (Underground)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 2 (Myths & Mortals)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (Wrecked)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Absolute Doom)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Chapter 2 Remix
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ---
 
@@ -227,39 +227,39 @@
 
 ### Season 1 (Hunters)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 2 (Lawless)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Mini Season 1 (Galactic Battle)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (Super)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Shock 'N Awesome)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Mini Season 2 (The Simpsons)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ---
 
@@ -267,30 +267,30 @@
 
 ### Season 1 (Pacific Break)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 2 (Showdown)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 3 (Runners)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Season 4 (Override)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
 
 ### Mini Season 1 (Treasure Hunters)
 
-| Project / Build | Discord |
+| Project | Discord |
 | :--- | :--- |
-| *Пока нет проектов* | N/A |
+| *No projects yet* | N/A |
