@@ -71,7 +71,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Neo* | [Discord](https://discord.gg/neofn) | Yes |
 
 ---
 
@@ -119,7 +119,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Eon* | [Discord](https://discord.gg/eonfn) | Yes |
 
 ### Season 8 (Cubed)
 
