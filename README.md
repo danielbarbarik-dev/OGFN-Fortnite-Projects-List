@@ -29,8 +29,8 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Omen* | [Discord]((https://discord.gg/omenmp)) | Yes |
-| *Echo* | [Discord]((https://discord.gg/echofn)) | Yes |
+| *Omen* | [Discord](https://discord.gg/omenmp) | Yes |
+| *Echo* | [Discord](https://discord.gg/echofn) | Yes |
 
 ### Season 4 (Brace for Impact)
 
@@ -68,7 +68,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Elo* | [Discord]((https://discord.gg/elofn)) | Yes |
+| *Elo* | [Discord](https://discord.gg/elofn) | Yes |
 
 ### Season X (Out of Time)
 
