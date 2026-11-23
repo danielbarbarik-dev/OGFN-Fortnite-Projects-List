@@ -35,7 +35,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Arc* | [Discord](https://discord.gg/arcogfn) | Yes |
 
 ### Season 5 (Worlds Collide)
 
@@ -101,7 +101,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Aeris* | https://discord.gg/7JnCwCeh8R | Yes |
 
 ### Season 5 (Zero Point)
 
@@ -218,7 +218,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Astral* | [Discord](https://discord.gg/astralfn) | Yes |
+| *Astral* | [Discord](https://discord.gg/astralfn) | No |
 
 ### Chapter 2 Remix
 
