@@ -1,6 +1,6 @@
 # OGFN Fortnite Projects List
 
-A complete list of active OGFN projects, organized by chapters and seasons.
+A complete list of active OGFN projects.
 My Discord to contact me: @chupchuck1337
 
 ---
@@ -29,7 +29,8 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Omen* | [Discord]((https://discord.gg/omenmp)) | Yes |
+| *Echo* | [Discord]((https://discord.gg/echofn)) | Yes |
 
 ### Season 4 (Brace for Impact)
 
@@ -47,25 +48,27 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Era* | [Discord](https://discord.gg/erafn) | Yes |
 
 ### Season 7 (You Better Watch Out)
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Faith* | [Discord](https://discord.gg/5zeXBuD7Yr) | No |
+| *Polaris* | [Discord](https://discord.gg/SPB8AxY2HZ) | No |
+| *EZFN* | [Discord](https://discord.gg/fortnitemobile) | Yes |
 
 ### Season 8 (X Marks the Spot)
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Luxe* | [Discord](https://discord.gg/Kjtu7scd4Q) | Yes |
 
 ### Season 9 (The Future Is Yours)
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Elo* | [Discord]((https://discord.gg/elofn)) | Yes |
 
 ### Season X (Out of Time)
 
@@ -81,7 +84,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Ambient* | [Discord](https://discord.gg/qHGXeAdj38) | No |
 
 ### Season 2 (Top Secret)
 
@@ -95,13 +98,14 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Solis* | [Discord](https://discord.gg/solisfn) | No |
 
 ### Season 4 (Nexus War)
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
 | *Aeris* | [Discord](https://discord.gg/7JnCwCeh8R) | Yes |
+| *Retrac* | [Discord](https://discord.gg/retrac) | Yes |
 
 ### Season 5 (Zero Point)
 
@@ -135,7 +139,8 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Fate* | [Discord](https://discord.gg/fatefn) | No |
+| *Flare* | [Discord](https://discord.gg/oldmp) | Yes |
 
 ### Season 2 (Resistance)
 
