@@ -101,7 +101,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *Aeris* | https://discord.gg/7JnCwCeh8R | Yes |
+| *Aeris* | [Discord](https://discord.gg/7JnCwCeh8R) | Yes |
 
 ### Season 5 (Zero Point)
 
