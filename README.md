@@ -111,7 +111,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Vexa* | [Discord](https://discord.gg/vexafn) | Yes |
 
 ### Season 6 (Primal)
 
