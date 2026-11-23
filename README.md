@@ -87,7 +87,9 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Stellar* | [Discord](https://discord.gg/stellarfn) | Yes |
+| *EZFN (Beta)* | [Discord](https://discord.gg/fortnitemobile) | Yes |
+
 
 ### Season 3 (Splashdown)
 
@@ -123,7 +125,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Ember* | [Discord](https://discord.gg/emberfn) | Yes |
 
 ---
 
@@ -167,7 +169,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Skylar* | [Discord](https://discord.gg/skylarfn) | No |
 
 ### Season 3 (WILDS)
 
