@@ -224,7 +224,7 @@ My Discord to contact me: @chupchuck1337
 
 | Project | Discord | Released |
 | :--- | :--- | :--- |
-| *No projects yet* | N/A | N/A |
+| *Astral* | [Discord](https://discord.gg/CEbnwqMCn) | No |
 
 ### Chapter 2 Remix
 
